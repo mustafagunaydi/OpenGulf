@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title: "About OpenGulf"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+OpenGulf is a transdisciplinary research group focusing on historical documentation about the Gulf. OpenGulf was launched in the Arts and Humanities Division of NYU Abu Dhabi. The projects publish open historical datasets, corpora and digital exhibits with the aim of opening Gulf Studies to digital historical exploration, analysis and interpretation in the service of open research and pedagogy.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+The project co-directors of OpenGulf are Nora Barakat (History, Stanford U) and David Joseph Wrisley (Digital Humanities, NYU Abu Dhabi)
