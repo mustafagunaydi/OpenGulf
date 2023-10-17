@@ -1,5 +1,5 @@
 ---
-permalink: /project/
+permalink: /about/
 title: "The Project"
 ---
 

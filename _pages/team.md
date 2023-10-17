@@ -38,7 +38,7 @@ permalink: /team/
 		<li><b>Suphan Kirmizaltin</b> - automatic transcription, data modeling, HTR model creation, project design</li>
 		<li><b>Everett Pruett (NYU Kevorkian)</b> - annotation, research, data quality, Lorimer dataset team leader</li>
 
-	</ul>
+	<ul>
 </p>
 
 	<ul>
