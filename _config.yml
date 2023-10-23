@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: OpenGulf
-logo: "assets/images/OpenGulf-logos_white.png88x88.jpeg"
+logo: "assets/images/OpenGulf-logos_white.png"
 email: opengulfNYUAD@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   OpenGulf is a transdisciplinary research group focusing on historical documentation about the Gulf. OpenGulf was launched in the Arts and Humanities Division of NYU Abu Dhabi. The projects publish open historical datasets, corpora and digital exhibits with the aim of opening Gulf Studies to digital historical exploration, analysis and interpretation in the service of open research and pedagogy.
