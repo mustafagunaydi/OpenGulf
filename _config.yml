@@ -21,6 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
+layout: single
 search: true
 
 
@@ -93,7 +94,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       classes: wide
       author_profile: true
       read_time: true
@@ -105,7 +106,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: true
 
 category_archive:
