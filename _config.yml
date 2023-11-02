@@ -109,7 +109,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+ # _foo
+  - scope:
+      path: ""
+      type: foo
+    values:
+      layout: single
+      
 category_archive:
   type: liquid
   path: /categories/
