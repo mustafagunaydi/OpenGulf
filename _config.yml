@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   OpenGulf is a transdisciplinary research group focusing on historical documentation about the Gulf. OpenGulf was launched in the Arts and Humanities Division of NYU Abu Dhabi. The projects publish open historical datasets, corpora and digital exhibits with the aim of opening Gulf Studies to digital historical exploration, analysis and interpretation in the service of open research and pedagogy.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: light
+minimal_mistakes_skin: air
 search: true
 
 
