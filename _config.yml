@@ -27,6 +27,7 @@ search: true
 
 
 # Build settings
+layout: splash
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
